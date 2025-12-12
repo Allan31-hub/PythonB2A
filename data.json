@@ -1,0 +1,49 @@
+{
+  "users": {
+    "00257e6e-9e42-44db-97eb-77a3b3e6db31": {
+      "id": "00257e6e-9e42-44db-97eb-77a3b3e6db31",
+      "username": "Adim",
+      "password": "Adim",
+      "role": "user",
+      "subscription": {
+        "type": "basic",
+        "expires_at": "2026-11-27"
+      },
+      "penalties_due": 0.0,
+      "monthly_loan_counter": 0,
+      "monthly_counter_year_month": "2025-11",
+      "notifications": []
+    },
+    "d9eab1e1-184f-4e27-be3b-d2b8391e37bc": {
+      "id": "d9eab1e1-184f-4e27-be3b-d2b8391e37bc",
+      "username": "Allan",
+      "password": "MUSQUET",
+      "role": "user",
+      "subscription": {
+        "type": "premium",
+        "expires_at": "2026-11-28"
+      },
+      "penalties_due": 0.0,
+      "monthly_loan_counter": 0,
+      "monthly_counter_year_month": "2025-11",
+      "notifications": []
+    },
+    "c80ade89-a095-49bc-acc9-023c76d8e922": {
+      "id": "c80ade89-a095-49bc-acc9-023c76d8e922",
+      "username": "Baba",
+      "password": "MUSQUET",
+      "role": "user",
+      "subscription": {
+        "type": "premium",
+        "expires_at": "2026-11-28"
+      },
+      "penalties_due": 0.0,
+      "monthly_loan_counter": 0,
+      "monthly_counter_year_month": "2025-11",
+      "notifications": []
+    }
+  },
+  "books": {},
+  "loans": {},
+  "reservations": {}
+}
